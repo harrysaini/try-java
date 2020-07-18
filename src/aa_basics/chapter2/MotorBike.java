@@ -1,4 +1,4 @@
-package chapterTwo;
+package aa_basics.chapter2;
 
 public class MotorBike {
 	private int speed;

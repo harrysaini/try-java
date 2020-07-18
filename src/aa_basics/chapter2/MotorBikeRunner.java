@@ -1,4 +1,4 @@
-package chapterTwo;
+package aa_basics.chapter2;
 
 public class MotorBikeRunner {
 

@@ -1,4 +1,4 @@
-package chapterOne;
+package aa_basics.chapter1;
 
 public class MultiplicationTableRunner {
 
