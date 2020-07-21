@@ -1,4 +1,4 @@
-package aa_basics.types;
+package aa_basics.chapter3_types;
 
 public class BiNumbers {
 	private int num1;
