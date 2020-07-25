@@ -15,6 +15,7 @@ public class MenuMapperRunner {
 		System.out.print("Choose option - ");
 	}
 
+	@SuppressWarnings("unused")
 	private static int performOperation(int num1, int num2, int operation) {
 		if (operation == 1) {
 			return num1 + num2;
